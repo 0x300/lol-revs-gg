@@ -3,9 +3,16 @@
   "version": "1.0.0",
   "description": "Site that makes viewing revisions to champion and item abilities and stats easy peasy. ",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0x300/lol-revs-gg.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Josh Lindoo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "angular-ui-bootstrap": "^1.1.2"
+  }
 }
