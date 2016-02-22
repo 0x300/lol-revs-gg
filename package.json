@@ -1,0 +1,11 @@
+{
+  "name": "lol-revs-gg",
+  "version": "1.0.0",
+  "description": "Site that makes viewing revisions to champion and item abilities and stats easy peasy. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Lindoo",
+  "license": "ISC"
+}
